@@ -102,7 +102,7 @@ Output Waveform
 
 
 TABULATION:
-
+![WhatsApp Image 2025-08-31 at 21 59 24_b518204e](https://github.com/user-attachments/assets/fe0a03d3-7b48-46ff-99e8-cf31c6a98f4b)
 
 
 Calculation
