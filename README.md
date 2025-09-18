@@ -94,8 +94,11 @@ plot(t,s);
 ```
 
 Output Waveform
+
 <img width="760" height="716" alt="image" src="https://github.com/user-attachments/assets/1610b98f-3370-4cb9-a18a-10dcf010149c" />
+
 TABULATION:
+
 ![WhatsApp Image 2025-08-31 at 21 59 24_a3b6298d](https://github.com/user-attachments/assets/516bf582-7ff1-4f20-b943-ed55ae9496c9)
 
 Calculation
