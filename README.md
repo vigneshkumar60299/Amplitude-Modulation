@@ -13,7 +13,6 @@ EQUIPMENTS REQUIRED
 •	SCI LAB
 
 THEORY:
-
 Modulation can be defined as the process by which the characteristics of carrier wave are varied in accordance with the modulating wave (signal). Modulation is performed in a transmitter by a circuit called a modulator.
 Need for modulation is as follows:
 •	Avoid mixing of signals
@@ -95,16 +94,9 @@ plot(t,s);
 ```
 
 Output Waveform
-
-
 <img width="760" height="716" alt="image" src="https://github.com/user-attachments/assets/1610b98f-3370-4cb9-a18a-10dcf010149c" />
-
-
-
 TABULATION:
 ![WhatsApp Image 2025-08-31 at 21 59 24_a3b6298d](https://github.com/user-attachments/assets/516bf582-7ff1-4f20-b943-ed55ae9496c9)
-
-
 
 Calculation
 1.	ma (Theory) = am/ac =
